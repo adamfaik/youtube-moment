@@ -1,0 +1,5 @@
+{
+  "name": "Moment",
+  "description": "An app that finds the perfect YouTube video for your available time and mood, powered by Gemini. It's designed to combat decision paralysis by providing a single, curated video suggestion to make your free time more intentional and enjoyable.",
+  "requestFramePermissions": []
+}
