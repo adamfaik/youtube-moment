@@ -1,4 +1,4 @@
-# 🎬 Moment - YouTube Discovery Companion
+# 🎬 Moment - YouTube Discovery Companion!
 
 A smart YouTube video discovery app powered by Gemini AI and YouTube Data API. Find the perfect video for your mood and available time, eliminating decision paralysis with curated, personalized recommendations.
 
